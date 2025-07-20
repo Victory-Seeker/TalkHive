@@ -10,6 +10,19 @@
 
 ---
 
+## 📸 Screenshot
+
+- Home Page
+![HomePage Screenshot](homePage.png)
+
+- Profile Page
+![Profile Screenshot](ProfilePage.png)
+
+- Chatting Page
+![Chatting Screenshot](ChattingPage.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🔹 Frontend
