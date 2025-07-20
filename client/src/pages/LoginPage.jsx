@@ -32,7 +32,10 @@ const LoginPage = () => {
     <div className='min-h-screen bg-cover bg-center flex items-center justify-center gap-8 sm:justify-evenly max-sm:flex-col backdrop-blur-2xl'>
 
       {/* -------- left -------- */}
-      <img src={assets.logo_big} alt="" className='w-[min(30vw,250px)]'/>
+      <div className="flex flex-col items-center gap-5">
+        <img src={assets.favicon} alt="favicon" className='w-[min(30vw,250px)]' />
+        <p className="text-white text-7xl font-semibold">TalkHive</p>
+      </div>
 
       {/* -------- right -------- */}
 
