@@ -13,7 +13,7 @@
 ## 📸 Screenshot
 
 - Home Page
-![HomePage Screenshot](homePage.png)
+![HomePage Screenshot](HomePage.png)
 
 - Profile Page
 ![Profile Screenshot](ProfilePage.png)
